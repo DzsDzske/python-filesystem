@@ -2,7 +2,7 @@
 
 Ez csak egy hobbi projekt.
 
-Ez egy python fájlkezelő rendszer. (console)
+Ez egy python projekt ami 2 programot tartalmaz egyben.
  
 1. Válaszd ki melyik programot akarod futtatni.
   1. jelszo program:
