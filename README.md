@@ -3,6 +3,8 @@
 Ez csak egy hobbi projekt.
 
 Ez egy python projekt ami 2 programot tartalmaz egyben.
+NEM ÖNÁLLÓAN FUTTATHATÓ PROGRAM!
+RAKD BELE VSC-BE VAGY PYCHARM-BA!!!
  
 1. Válaszd ki melyik programot akarod futtatni.
   1. jelszo program:
