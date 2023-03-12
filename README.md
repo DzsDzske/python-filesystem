@@ -9,12 +9,12 @@ RAKD BELE VSC-BE VAGY PYCHARM-BA!!!
 1. Válaszd ki melyik programot akarod futtatni.
   1. jelszo program:
     1. Regisztráció:
-      1. Add meg neki a felhasználónevedet! (ne legyenek ékezetek, csak az angol abc betűi!)
-      2. Add meg neki a jelszavadat! (ne legyenek ékezetek, csak az angol abc betűi!)
+      - Add meg neki a felhasználónevedet! (ne legyenek ékezetek, csak az angol abc betűi!)
+      - Add meg neki a jelszavadat! (ne legyenek ékezetek, csak az angol abc betűi!)
     2. Bejelentkezés:
       (Csak 3 lehetőséged van!)
-      1. Add meg neki a felhasználónevedet! (ne legyenek ékezetek, csak az angol abc betűi!)
-      2. Add meg neki a jelszavadat! (ne legyenek ékezetek, csak az angol abc betűi!) 
+      - Add meg neki a felhasználónevedet! (ne legyenek ékezetek, csak az angol abc betűi!)
+      - Add meg neki a jelszavadat! (ne legyenek ékezetek, csak az angol abc betűi!) 
   2. fajl rendszer
     1. Mond meg neki, hogy mit csináljon.
       - új: Új fájl létrehozása (a kiterjesztést is add hozzá!):
